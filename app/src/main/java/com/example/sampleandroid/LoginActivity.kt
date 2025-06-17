@@ -8,6 +8,7 @@ import androidx.core.view.WindowInsetsCompat
 
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
+        // Fourth commit
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_login)
